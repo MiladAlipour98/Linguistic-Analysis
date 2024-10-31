@@ -19,7 +19,7 @@ Store all the extracted data in a new index in ElasticSearch. This information c
 
 ## Part 2: Persian Text Analysis
 
-In this part, we will use the Hazm library to analyze Persian texts stored in ElasticSearch.
+In this part, we have used the Hazm library to analyze Persian texts stored in ElasticSearch.
 
 ### 2. Persian Text Analysis
 
